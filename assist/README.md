@@ -138,7 +138,7 @@ pnpm check
 1. Create a Clerk application at [clerk.com](https://clerk.com)
 2. Set up environment variables:
    ```
-   CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+   VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
    CLERK_SECRET_KEY=your_clerk_secret_key
    ```
 
